@@ -1,0 +1,17 @@
+.Icone{
+    a{
+        width: 40px;
+        height: 40px;
+        background-color: rgba(0, 0, 0, 0.554);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 100%;
+        &:hover{
+            background-color: rgba(40, 143, 40, 0.609);
+        }
+        img{
+            width: 25px;
+        }
+    }
+}
