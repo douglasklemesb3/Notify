@@ -9,14 +9,11 @@ const Aside = () => {
                 
                     <h1> Get Notified of and updates </h1>
                     <p> Lorem ipsum dolor sit amet,consectetue adipiscing elit. Suspendisse </p>
-
                     <p> fringilla fringilla nisi congue congue. Maecenas nef condimentum libero,at </p>
-
                     <p> elementum mauris. Phasellus eget nisi dapibus,ultiricies nisi at,hendrerit </p>
-
                     <p> risusuis ormare luctus id sollicitudin ante lobortis at. </p>
 
-                <div className="input">
+                <div className="div_input">
                     <input placeholder="Digite seu email" type="email" name="" id="" ></input>
                     <button> Notify </button>
                 </div>
