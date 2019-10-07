@@ -1,0 +1,16 @@
+.Aside{
+    margin: 0;
+    background-color: rgba(128, 128, 128, 0.589);
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    aside{
+        display:flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+
+    }
+}
